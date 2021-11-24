@@ -1,2 +1,10 @@
 hello12
+
+feature1
+feature3
+Мои новые изменения для проверки stash
+svs
 qqq
+
+
+
